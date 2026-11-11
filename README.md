@@ -1,3 +1,5 @@
+<!-- This site is no longer live, and has been replaced by the second version of the temporary site. This repository is maintained for archive purposes only. -->
+
 ### Home 𑗅 [About the Society](/about.md) 𑗅 [Events](/events.md) 𑗅 [Funding](/funding.md) 𑗅 [Prizes](/prizes.md) 𑗅 [Contact](/contact.md)
 
 ![The SFS logo](/assets/sfs-logo.png)
